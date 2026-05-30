@@ -1,0 +1,9 @@
+# Pamięć podręczna Pythona
+__pycache__/
+*.pyc
+
+# Pliki wymiany danych i logi lokalne
+output.json
+
+# Pliki tymczasowe Excela (generowane automatycznie podczas otwartego arkusza)
+~$*.xlsm
